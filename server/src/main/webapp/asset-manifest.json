@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc7fa479.chunk.css",
+    "main.js": "/static/js/main.c0f88c5d.chunk.js",
+    "main.js.map": "/static/js/main.c0f88c5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.eb1025ee.chunk.css": "/static/css/2.eb1025ee.chunk.css",
+    "static/js/2.be01f187.chunk.js": "/static/js/2.be01f187.chunk.js",
+    "static/js/2.be01f187.chunk.js.map": "/static/js/2.be01f187.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dcc799049406e1a341dd7a2b68806ce4.js": "/precache-manifest.dcc799049406e1a341dd7a2b68806ce4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eb1025ee.chunk.css.map": "/static/css/2.eb1025ee.chunk.css.map",
+    "static/css/main.dc7fa479.chunk.css.map": "/static/css/main.dc7fa479.chunk.css.map",
+    "static/js/2.be01f187.chunk.js.LICENSE.txt": "/static/js/2.be01f187.chunk.js.LICENSE.txt",
+    "static/media/advancedgrails.svg": "/static/media/advancedgrails.06b52862.svg",
+    "static/media/documentation.svg": "/static/media/documentation.e1490625.svg",
+    "static/media/grails.css": "/static/media/grails-cupsonly-logo-white.b651640f.svg",
+    "static/media/grails.svg": "/static/media/grails.cda5b271.svg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/slack.svg": "/static/media/slack.07688f36.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.eb1025ee.chunk.css",
+    "static/js/2.be01f187.chunk.js",
+    "static/css/main.dc7fa479.chunk.css",
+    "static/js/main.c0f88c5d.chunk.js"
+  ]
+}
