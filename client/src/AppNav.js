@@ -1,7 +1,7 @@
 import React from 'react';
 import {Collapse, DropdownItem, DropdownMenu, DropdownToggle, Nav, Navbar, NavbarBrand, NavbarToggler, NavLink, UncontrolledDropdown} from 'reactstrap';
 
-import grailsLogo from './images/grails.svg';
+import grailsLogo from './images/teraret.svg';
 
 const NavDropdownItem = props => {
     return <DropdownItem tag='li'><NavLink>{props.children}</NavLink></DropdownItem>
@@ -15,7 +15,7 @@ const AppNav = ({serverInfo, clientInfo, collapse, toggle}) => {
         <Navbar style={{backgroundColor: '#424649', borderRadius: 0}} dark expand='lg' className='navbar-static-top'>
 
             <NavbarBrand>
-                <img src={grailsLogo} alt="Grails"/>
+                <img src={grailsLogo}  width="180" alt="Grails"/>
             </NavbarBrand>
             <NavbarToggler onClick={toggle}/>
 
